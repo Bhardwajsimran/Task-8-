@@ -1,6 +1,6 @@
 # Task-8-
 Ai /ml internship 
-# Task 8 - K-Means Clustering (AI & ML Internship)
+# K-Means Clustering (AI & ML Internship)
 
 ## 📌 Objective
 
